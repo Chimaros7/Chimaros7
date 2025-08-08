@@ -9,6 +9,6 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Full stack developer.
+- 📲 Full Stack Developer.
 <br>
 </p>
