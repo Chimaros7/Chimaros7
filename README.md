@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/XmGnfeR.png" />
 
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/Chimaros7)
 
 ## Sobre mi
 
